@@ -3,7 +3,7 @@
 A simple web app that converts temperatures between Celsius, Fahrenheit, and Kelvin. Built using HTML, CSS, and JavaScript to demonstrate input validation, DOM manipulation, and basic conversion logic.
 
 ## 🚀 Live Demo
-🔗 https://ThanmaiReddy07.github.io/TemperatureConverterWebsite
+🔗 https://thanmaireddy07.github.io/TemparatureConverterWebsite/
 
 ## 🧰 Tech Stack
 - HTML5
